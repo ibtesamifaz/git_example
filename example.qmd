@@ -7,3 +7,5 @@ format: html
 # Introduction 
 
 A line added for example 
+
+A line for conflict
