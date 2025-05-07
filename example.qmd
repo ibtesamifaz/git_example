@@ -12,3 +12,4 @@ A line for conflict
 
 A line added for testbranch 
 
+A  line added for amend
